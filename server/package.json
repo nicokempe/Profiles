@@ -1,0 +1,12 @@
+{
+  "name": "profiles-server",
+  "version": "2022.5.1-dev",
+  "private": true,
+  "description": "User Management with Profile system made with Vue 3 and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nico Kempe",
+  "license": "Apache-2.0"
+}
