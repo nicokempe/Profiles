@@ -12,9 +12,9 @@ updates:
       interval: "daily"
       time: "09:00"
       timezone: "Europe/Berlin"
-  #- package-ecosystem: "npm"
-    #directory: "/server"
-    #schedule:
-      #interval: "daily"
-      #time: "09:00"
-      #timezone: "Europe/Berlin"
+  - package-ecosystem: "npm"
+    directory: "/server"
+    schedule:
+      interval: "daily"
+      time: "09:00"
+      timezone: "Europe/Berlin"
