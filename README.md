@@ -1,4 +1,11 @@
-# 👤 Profiles documentation
+![github-release-downloads](https://img.shields.io/github/downloads/nicokempe/Profiles/total)
+![github-version](https://img.shields.io/github/package-json/v/nicokempe/Profiles?filename=website%2Fpackage.json)
+![github-stars](https://img.shields.io/github/stars/nicokempe/Profiles)
+![github-code-size](https://img.shields.io/github/languages/code-size/nicokempe/Profiles)
+![github-license](https://img.shields.io/github/license/nicokempe/Profiles)
+
+![Profiles Repo Header for the Documentation](/.github/profiles-header.png)
+
 In this repository I keep the current state of development of my Profiles system written in Vue 3 and Express.js. I have a heap of documentation available for the code in this repository. You may be interested in the...
 
 * [Issues](https://github.com/nicokempe/Profiles/issues) if you want to request a feature or to report a bug.
@@ -26,6 +33,17 @@ In this repository I keep the current state of development of my Profiles system
 
 ---
 
+### ⚠️ Known critical bugs
+- Currently there are no known critical bugs, if you found a critical bug check out the **[Security Policy](https://github.com/nicokempe/Profiles/security/policy)** to find more information how you can help to make this project safer for everyone
+
+---
+
+### 📋 Credits and often used Dependencies
+- **[Vue.js](https://vuejs.org/)** was used to build the **[Website](https://github.com/nicokempe/Profiles/blob/production/website)**. (FrontEnd)
+- **[Express.js](https://expressjs.com/)** was used to build the **[Server](https://github.com/nicokempe/Profiles/blob/production/server)**. (BackEnd)
+
+---
+
 ### ⬇️ Installation
 Install [GitHub Desktop](https://desktop.github.com/), click on the green "Code" button in this project on top of the file viewer. Click on the [Open with GitHub Desktop](x-github-client://openRepo/https://github.com/nicokempe/Profiles) button. Then set a file path where you would like to have saved the project. Then the GitHub desktop program suggests the options "Open in Visual Studio Code" and "Show in Explorer". Select the options that suit you and open the project with your favorite code editor. Then you simply open the terminal and carry out the NPM commands of your choice. Here are some examples:
 
@@ -35,7 +53,7 @@ Install [GitHub Desktop](https://desktop.github.com/), click on the green "Code"
 cd website
 ```
 
-#### And (⚠️) after successfully running all commands (⚠️) again with the server project
+#### And after successfully running all commands again with the server project
 ```
 cd server
 ```
