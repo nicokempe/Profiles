@@ -18,6 +18,7 @@ In this repository I keep the current state of development of my Profiles system
 - Features
 - Installation
 - License
+
 ---
 
 ### ⭐ Features
@@ -34,13 +35,13 @@ In this repository I keep the current state of development of my Profiles system
 ---
 
 ### ⚠️ Known critical bugs
-- Currently there are no known critical bugs, if you found a critical bug check out the **[Security Policy](https://github.com/nicokempe/Profiles/security/policy)** to find more information how you can help to make this project safer for everyone
+- Currently there are no known critical bugs, if you found a critical bug check out the **[Security Policy](https://github.com/nicokempe/Profiles/security/policy)** to find more information how you can help to make this project safer for everyone.
 
 ---
 
 ### 📋 Credits and often used Dependencies
-- **[Vue.js](https://vuejs.org/)** was used to build the **[Website](https://github.com/nicokempe/Profiles/blob/production/website)**. (FrontEnd)
-- **[Express.js](https://expressjs.com/)** was used to build the **[Server](https://github.com/nicokempe/Profiles/blob/production/server)**. (BackEnd)
+- **[Vue.js](https://vuejs.org/)** is used to build the **[Website](https://github.com/nicokempe/Profiles/blob/production/website)**. (FrontEnd)
+- **[Express.js](https://expressjs.com/)** is used to build the **[Server](https://github.com/nicokempe/Profiles/blob/production/server)**. (BackEnd)
 
 ---
 
