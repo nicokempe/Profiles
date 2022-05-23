@@ -6,11 +6,17 @@ const routes = [
   {
     path: '/',
     name: 'home',
+    meta: {
+      title: "Profiles | Home",
+    },
     component: HomeView
   },
   {
     path: '/imprint',
     name: 'imprint',
+    meta: {
+      title: "Profiles | Imprint",
+    },
     component: function () {
       return import('../views/ImprintView.vue')
     },
@@ -18,6 +24,9 @@ const routes = [
   {
     path: '/privacy-policy',
     name: 'privacy-policy',
+    meta: {
+      title: "Profiles | Privacy Policy",
+    },
     component: function () {
       return import('../views/PrivacyPolicyView.vue')
     },
@@ -26,6 +35,9 @@ const routes = [
   {
     path: '/forget-password',
     name: 'forget-password',
+    meta: {
+      title: "Profiles | Forget Password",
+    },
     // route level code-splitting
     // this generates a separate chunk (forget-password.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
@@ -36,6 +48,9 @@ const routes = [
   {
     path: '/profile',
     name: 'profile',
+    meta: {
+      title: "Profiles | Your Profile",
+    },
     component: function () {
       return import('../views/profile/ProfileView.vue')
     },
@@ -43,6 +58,9 @@ const routes = [
   {
     path: '/settings',
     name: 'settings',
+    meta: {
+      title: "Profiles | Settings",
+    },
     component: function () {
       return import('../views/profile/SettingsView.vue')
     },
@@ -50,6 +68,9 @@ const routes = [
   {
     path: '/signin',
     name: 'signin',
+    meta: {
+      title: "Profiles | Sign In",
+    },
     component: function () {
       return import('../views/profile/SignInView.vue')
     },
@@ -57,6 +78,9 @@ const routes = [
   {
     path: '/signup',
     name: 'signup',
+    meta: {
+      title: "Profiles | Sign Up",
+    },
     component: function () {
       return import('../views/profile/SignUpView.vue')
     },
