@@ -1,12 +1,22 @@
 <template>
-  <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/signin">Sign in</router-link> |
-    <router-link to="/signup">Sign up</router-link> |
-    <router-link to="/profile">Profile</router-link>
-  </nav>
+  <HeaderComponent></HeaderComponent>
   <router-view/>
+  <FooterComponent></FooterComponent>
 </template>
+
+<script>
+
+import HeaderComponent from '@/components/static/HeaderComponent.vue'
+import FooterComponent from '@/components/static/FooterComponent.vue'
+
+export default {
+  components: {
+    HeaderComponent,
+    FooterComponent
+}
+}
+
+</script>
 
 <style>
 #app {
