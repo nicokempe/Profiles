@@ -22,7 +22,7 @@ In this repository I keep the current state of development of my Profiles system
 ---
 
 ### ⭐ Features
-- **[!]** Currently in the planning phase
+- **[!]** Currently still in the planning phase
 
 ---
 
@@ -31,6 +31,11 @@ In this repository I keep the current state of development of my Profiles system
 - Secured Profile management (2FA)
 - User Profiles
 - Self-written style in pure CSS
+
+---
+
+### 🌉 Development status of the project
+![Profiles Repo Roadmap](/.github/repo-roadmap.png)
 
 ---
 
