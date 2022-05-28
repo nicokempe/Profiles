@@ -84,5 +84,8 @@ npm run build
 npm run test:unit
 ```
 
+### Discord
+[![Community](https://discordapp.com/api/guilds/528350750825512988/widget.png?style=banner2)]([https://einTosti.com/discord](https://discord.com/invite/t9frQmmqPe))
+
 ### License
-This project is subject to the [Apache-2.0](https://github.com/nicokempe/Profiles/blob/production/LICENSE) license. 
+This project is subject to the [Apache-2.0](https://github.com/nicokempe/Profiles/blob/production/LICENSE) license.
