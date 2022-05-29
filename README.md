@@ -9,7 +9,7 @@
 In this repository I keep the current state of development of my Profiles system written in Vue 3 and Express.js. I have a heap of documentation available for the code in this repository. You may be interested in the...
 
 * [Issues](https://github.com/nicokempe/Profiles/issues) if you want to request a feature or to report a bug.
-* [Discussions](https://github.com/nicokempe/Profiles/discussions) if you need help by the community or if you want to share your experience with others. 💓
+* [Discussions](https://github.com/nicokempe/Profiles/discussions) if you need help from the community or if you want to share your experience with others. 💓
 * [Wiki](https://github.com/nicokempe/Profiles/wiki) if you quickly need guides for this project.
 * [Code of Conduct](https://github.com/nicokempe/Profiles/blob/production/docs/code_of_conduct.md) before you start to work in this community.
 * [Contributing Guidelines](https://github.com/nicokempe/Profiles/blob/production/docs/contributing.md) if you intend to contribute to this project yourself. 
