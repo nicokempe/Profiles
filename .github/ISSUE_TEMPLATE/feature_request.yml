@@ -1,6 +1,6 @@
 name: "✨ New feature proposal"
 description: Suggest an idea for this project
-labels: [":sparkles: Enhancement"]
+labels: [":sparkles: feature request"]
 body:
   - type: markdown
     attributes:

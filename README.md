@@ -16,7 +16,12 @@ In this repository I keep the current state of development of my Profiles system
 
 ## 📚 Table of Contents
 - Features
+- Planned Features
+- Development status
+- Known critical bugs
+- Credits and often used dependencies
 - Installation
+- Discord
 - License
 
 ---
